@@ -1,0 +1,93 @@
+Package: com.yourepo.kula67.lakeautolead
+Name: autolead67lake
+Version: 7.2.3
+Architecture: iphoneos-arm
+Description: kulalasusu for IOS Model 9.2.1 - 10.2.1
+Maintainer: kulalasusu <kulalasusu723@gmail.com>
+Author: kulalasusu <kulalasusu723@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: System
+Filename: ./Debs/autolead67.deb
+Size: 243048
+MD5sum: d3c643409dce3e7b383e12fd3704f514
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,com.yourepo.kula67.locationfakerios89,openssh,com.yourepo.kula67.xcon,jetslammed,socat,com.yourepo.kula67.hookkeyboard,com.yourepo.kula67.icontool,com.cydiageek.coysim
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
+
+
+
+
+
+Package: com.yourepo.kula67.autolead63
+Name: autolead63
+Version: 7.2.3
+Architecture: iphoneos-arm
+Description: kulalasusu for IOS Model 9.2.1 - 10.2.1
+Maintainer: kulalasusu <kulalasusu723@gmail.com>
+Author: kulalasusu <kulalasusu723@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: System
+Filename: ./Debs/autolead63.deb
+Size: 243002
+MD5sum: edefe736fe5b09da57ba5c0312049d08
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,com.yourepo.kula67.locationfakerios89,openssh,com.yourepo.kula67.xcon,jetslammed,socat,com.yourepo.kula67.hookkeyboard,com.yourepo.kula67.icontool,com.cydiageek.coysim
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
+
+
+Package: com.yourepo.kula67.icontool
+Name: Icon Tool
+Version: 1.9-5k
+Architecture: iphoneos-arm
+Description: App tools menu from jiggle mode
+Maintainer: kulalasusu <kulalasusu723@gmail.com>
+Author: kulalasusu <kulalasusu723@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/icontool.deb
+Size: 386246
+MD5sum: 22f5d2b9692a9673a268f3705d8ef442
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
+Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
+
+Package: com.yourepo.kula67.hookkeyboard
+Name: hookkeyboard
+Version: 7.2.3
+Architecture: iphoneos-arm
+Description: Tweak for AutoLead  iOS 9.2.1 --- 10.2.1
+Maintainer: kulalasusu <kulalasusu723@gmail.com>
+Author: kulalasusu <kulalasusu723@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/hookkeyboard.deb
+Size: 330106
+MD5sum: 0e843f6eb875ed4d6fddbf73f90a3213
+Depends: mobilesubstrate
+
+Package: com.yourepo.kula67.locationfakerios89
+Name: LocationFaker(8,9,10)
+Version: 2.0k
+Architecture: iphoneos-arm
+Description: Change your location using a map Cracked
+Maintainer: kulalasusu <kulalasusu723@gmail.com>
+Author: Cunstuck <kulalasusu723@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/locationfaker.deb
+Size: 550628
+MD5sum: c695ac7463d8d6faf830f598e9ad2a10
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.locationchangerx
+
+Package: com.yourepo.kula67.xcon
+Name: xCon
+Version: 42-beta1
+Architecture: iphoneos-arm
+Description: bypass anti-jailbreak protection
+Maintainer: kulalasusu <kulalasusu723@gmail.com>
+Author: Lunatik <nofearlose@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/xcon.deb
+Size: 136550
+MD5sum: a00f0a740abb1f1570f29c2e52e16dfc
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner,com.yourepo.cml.xcon,com.yourepo.viet.xcon

@@ -1,0 +1,8 @@
+Origin: kulalausu IOS Repo
+Label: kulalausu IOS Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: kulalausu for IOS Version 9.2.1 - 10.2.1
